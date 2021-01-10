@@ -12,16 +12,15 @@ namespace testDebogage
             
             
             
-            if (resultat) //si l'entrée est un nombre
+            if (resultat)
             {
                 maClasse classe = new maClasse("john", "nash", myNumber);
                 Console.WriteLine("Hello World!");
                 maClasse c = classe;
                 Console.WriteLine(c.ToString());
                 Console.WriteLine("tout est Ok");
-              
             }
-            else //si l'entrée n'est pas numérique
+            else 
             {
                 Console.WriteLine("Il faut entrer un entier pour te dire hello world");
             }

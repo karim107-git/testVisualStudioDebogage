@@ -1,0 +1,13 @@
+C:\Users\MEGHAR\source\repos\testDebogage\bin\Debug\netcoreapp3.1\testDebogage.exe
+C:\Users\MEGHAR\source\repos\testDebogage\bin\Debug\netcoreapp3.1\testDebogage.deps.json
+C:\Users\MEGHAR\source\repos\testDebogage\bin\Debug\netcoreapp3.1\testDebogage.runtimeconfig.json
+C:\Users\MEGHAR\source\repos\testDebogage\bin\Debug\netcoreapp3.1\testDebogage.runtimeconfig.dev.json
+C:\Users\MEGHAR\source\repos\testDebogage\bin\Debug\netcoreapp3.1\testDebogage.dll
+C:\Users\MEGHAR\source\repos\testDebogage\bin\Debug\netcoreapp3.1\testDebogage.pdb
+C:\Users\MEGHAR\source\repos\testDebogage\obj\Debug\netcoreapp3.1\testDebogage.csprojAssemblyReference.cache
+C:\Users\MEGHAR\source\repos\testDebogage\obj\Debug\netcoreapp3.1\testDebogage.AssemblyInfoInputs.cache
+C:\Users\MEGHAR\source\repos\testDebogage\obj\Debug\netcoreapp3.1\testDebogage.AssemblyInfo.cs
+C:\Users\MEGHAR\source\repos\testDebogage\obj\Debug\netcoreapp3.1\testDebogage.csproj.CoreCompileInputs.cache
+C:\Users\MEGHAR\source\repos\testDebogage\obj\Debug\netcoreapp3.1\testDebogage.dll
+C:\Users\MEGHAR\source\repos\testDebogage\obj\Debug\netcoreapp3.1\testDebogage.pdb
+C:\Users\MEGHAR\source\repos\testDebogage\obj\Debug\netcoreapp3.1\testDebogage.genruntimeconfig.cache
